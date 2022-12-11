@@ -1,2 +1,1 @@
-# 运行 python p_attention.py
-# 
+# 运行 python run.py
